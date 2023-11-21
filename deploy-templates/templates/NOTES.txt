@@ -1,0 +1,1 @@
+1. Application mm-fastapi has been successfully deployed!!
